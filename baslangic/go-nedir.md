@@ -17,6 +17,10 @@ Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik v
 >
 > **Ken Thompson:** B, C, UNIX ve UTF-8
 
+{% hint style="info" %}
+**Go'nun logosunda bulunan maskot, Renee French tarafından tasarlanan sevimli bir sincap olduğundan dolayı dilin popülerliğinin artmasını sağlamıştır. Ayrıca Go geliştiricileri kendilerini Gophers olarak tanımlamaktadır.**
+{% endhint %}
+
 **Dilin Genel Özellikleri**
 
 * Statik olarak yazılmış bir dildir.
