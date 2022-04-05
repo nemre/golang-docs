@@ -8,9 +8,7 @@ Bu dokümantasyon Go programlama dilinin, geliştiriciler için öğrenme ve ken
 
 Go programlama dilinde bulunan Türkçe kaynak eksikliğinin bu dokümantasyon ile iyileştirilmesi planlanmaktadır.\
 \
-Dokümantasyonda bulunan tüm konu direktifleri belirli bir düzen halinde anlatılacaktır.
-
-İçeriklerde bulunan Go programlama dili "Go", "Golang" ve "Go Programlama Dili" olarak bahsedilecektir.
+Dokümantasyonda bulunan tüm konu direktifleri belirli bir düzen halinde anlatılacak ve Go programlama dili "Go", "Golang" ve "Go Programlama Dili" olarak bahsedilecektir.
 
 {% hint style="info" %}
 Go programlama dilinin etkili öğreniminin sağlanılabilmesi için dokümantasyonda bulunan içeriklerin bir playground ortamında kullanılması tavsiye edilir.
