@@ -6,7 +6,7 @@ Google marka isminin kısaltmasından ismini alan Go programlama dili, Google i�
 
 Go geliştirilirken izlenen odak noktası, diğer programlama dillerinin karakteristik özelliklerini ortadan kaldırmadan kod yazmadaki zorluklarını çözmek ve mottoyu basitlik olarak tutmaktır.
 
-Go, çöp toplama, bellek güvenliği, otomatik değişken bildirimi, yapısal yazma ve CSP tarzı eşzamanlılık gibi ek avantajlarla birlikte klasik C/C++ sözdizimine dayanır. Bu aynı zamanda çoklu iş parçacığını özünde tutan en son programlama dilidir.
+Go, çöp toplama, bellek güvenliği, otomatik değişken bildirimi, yapısal yazma ve CSP tarzı eşzamanlılık gibi ek avantajlarla birlikte klasik **C/C++** sözdizimine dayanır. Bu aynı zamanda çoklu iş parçacığını özünde tutan en son programlama dilidir.
 
 \
 Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik ve artıları Go programlama dilinde ele alarak geliştirme sağlamıştır.
@@ -33,10 +33,10 @@ Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik v
 * JVM gibi sanal bir makineye ya da bağımlılığa ihtiyaç duymayan bir ikili dosyaya uyarlanarak çalışabilir.
 * Tüm işletim sistemi platformlarında derlenebilir.
 * Manuel bellek yönetimine ihtiyaç duyulmaz.
-* İçerisinde yerleşik olarak test ve kod formatlama gibi geliştirme süresini hızlandıran standart kitaplıklar barındırır.
+* İçerisinde yerleşik olarak **test ve kod formatlama** gibi geliştirme süresini hızlandıran standart kitaplıklar barındırır.
 * Değişken tip tanımlamaları isteğe bağlıdır.
 * Concurrency kullanımları basittir.
-* Go ile yazılmış HTTP framework kütüphaneleri benchmark listelerinde üst sıralarda yerini almaktadır. (Atreugo, FastHTTP, Fiber)
+* Go ile yazılmış HTTP framework kütüphaneleri benchmark listelerinde **üst sıralarda** yerini almaktadır. (Atreugo, FastHTTP, Fiber)
 
 ****
 
