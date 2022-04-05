@@ -1,7 +1,3 @@
----
-description: go.dev
----
-
 # Go Programlama Dili
 
 
