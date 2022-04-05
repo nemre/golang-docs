@@ -19,10 +19,38 @@ Go derleyicisini Windows'a yüklemek için lütfen aşağıdaki adımları izley
 1. Tarayıcınızdan [<mark style="color:green;">Go İndirmeleri</mark>](https://go.dev/dl/) adresine gidin ve Microsoft Windows .msi yükleyicisini indirin.
 2. Go derleyicisini sisteminize kurmak için yükleyiciyi başlatın ve kurulum sihirbazındaki adımları izleyin.
 
+### &#x20;Linux/Mac OS X'e Go Derleyicisini Yükleme
+
+**Mac OS X için Kurulum:**
+
+Tarayıcınızdan [<mark style="color:green;">Go İndirmeleri</mark>](https://go.dev/dl/) adresine gidin ve Mac için en son yükleyiciyi indirin.
+
+Tarball'ı tercih ederseniz, Linux kullanıcıları ile aynı adımları takip edebilirsiniz.
+
+\
+**Mac Homebrew için Kurulum:**
+
+Homebrew kullanıcıları için aşağıdaki adımlarla kurulum yapılabilir:
+
+```
+brew update
+brew install go
+```
+
+**Linux / Mac Tarball için Kurulum:**
+
+Arşivi indirin**,** /usr/local dizinine çıkarın ve /usr/local/go dizininde bir Go ağacı oluşturun.
+
+```
+tar -C /usr/local -xzf go1.18.linux-amd64.tar.gz
+```
+
+### Kurulumu Doğrulama
+
 Go kurulumunu onaylayabilmek için aşağıdaki adımları izleyebilirsiniz:
 
-1. Başlat/Windows düğmesine tıklayın, **cmd** yazın ve Enter'a basın.
-2. Komut İstemi penceresine aşağıdaki komutu yazın ve Enter'a basın.
+1. Terminalinizi açın.
+2. Terminalinize aşağıdaki komutu yazın ve Enter'a basın.
 
 ```
 go version
@@ -33,8 +61,6 @@ Go derleyicisi doğru şekilde kurulduysa, aşağıdaki çıktıya benzer bir me
 ```
 go version go1.x.x windows/amd64
 ```
-
-### &#x20;Linux/Mac OS X'e Go Derleyicisini Yükleme
 
 ### &#x20;
 
