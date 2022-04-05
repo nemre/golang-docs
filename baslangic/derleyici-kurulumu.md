@@ -6,11 +6,11 @@ Go derlenmiş bir dil olduğundan dolayı kaynak kodu dosyalarınızı, kaynak k
 
 Go derleyicisi hata kontrolü, optimizasyon ve dağıtım kolaylığı gibi çözümler sunar.
 
-Çoğu durumda, Go derleyicisi kaynak kodunuzda sorun algılayabilir ve derleme işlemi sırasında, yani programınız çalıştırılmadan önce hatalara neden olabilir.
+Çoğu durumda, Go derleyicisi kaynak kodunuzda sorun algılayabilir ve derleme işlemi sırasında, yani programınız çalıştırılmadan önce hatalara neden olabilir. Bu, üretimde beklenmeyen hataları önleyebilir ve geliştiricilere çok sayıda hata arama süresi kazandırabilir. Derleyici, kullanılmayan değişkenler, eksik içe aktarmalar, geçersiz işlemler ve daha fazlası gibi şeyleri algılamaya yardımcı olur.
 
-Bu, üretimde beklenmeyen hataları önleyebilir ve geliştiricilere çok sayıda hata arama süresi kazandırabilir. Derleyici, kullanılmayan değişkenler, eksik içe aktarmalar, geçersiz işlemler ve daha fazlası gibi şeyleri algılamaya yardımcı olabilir. Aşağıdaki örneğe bakalım:
-
+{% hint style="info" %}
 Go uygulamaları geliştirebilmek ve derleyebilmek için bilgisayara Go derleyicisinin kurulması gerekmektedir.
+{% endhint %}
 
 ### Windows'a Go Derleyicisini Yükleme
 
