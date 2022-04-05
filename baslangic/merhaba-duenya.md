@@ -1,2 +1,2 @@
-# Derleyici Kurulumu
+# Hızlı Başlangıç
 
