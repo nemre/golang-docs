@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (7).png>)
 
-Go derlenmiş bir dild olduğundan dolayı kaynak kodu dosyalarınızı, kaynak kodu okuyan ve programı çalıştırmak için kullanılan ikili veya yürütülebilir bir dosya oluşturan bir derleyici aracılığıyla çalıştırmamız gerektiği anlamına gelir. Diğer popüler derlenmiş dillere örnek olarak C, C++ ve Swift verilebilir. Bu dillerde yazılan programlar makine koduna dönüştürülür ve son derece hızlı çalışabilir.
+Go derlenmiş bir dil olduğundan dolayı kaynak kodu dosyalarınızı, kaynak kodu okuyan ve programı çalıştırmak için kullanılan ikili veya yürütülebilir bir dosya oluşturan bir derleyici aracılığıyla çalıştırmamız gerektiği anlamına gelir. Diğer popüler derlenmiş dillere örnek olarak C, C++ ve Swift verilebilir. Bu dillerde yazılan programlar makine koduna dönüştürülür ve son derece hızlı çalışabilir.
 
 Go derleyicisi hata kontrolü, optimizasyon ve dağıtım kolaylığı gibi çözümler sunar.
 
