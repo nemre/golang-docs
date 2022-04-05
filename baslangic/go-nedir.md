@@ -1,6 +1,6 @@
 # Go Nedir?
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 Google marka isminin kısaltmasından ismini alan Go programlama dili, Google içerisinde barınan sistemlerin daha güvenli ve verimli çalışabilmesi için **2007** yılında geliştirilmeye başlanmış olup **2009** yılında ilk versiyonu yayınlanmıştır.
 
@@ -30,6 +30,7 @@ Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik v
 * İçerisinde yerleşik olarak test ve kod formatlama gibi geliştirme süresini hızlandıran standart kitaplıklar barındırır.
 * Değişken tip tanımlamaları isteğe bağlıdır.
 * Concurrency kullanımları basittir.
+* Go ile yazılmış HTTP framework kütüphaneleri benchmark listelerinde üst sıralarda yerini almaktadır. (Atreugo, FastHTTP, Fiber)
 
 ****
 
