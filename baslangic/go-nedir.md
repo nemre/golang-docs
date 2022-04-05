@@ -1,6 +1,6 @@
 # Go Nedir?
 
-Google marka isminin kısaltmasından ismini alan Go programlama dili, Google içerisinde barınan sistemlerin daha güvenli ve verimli çalışabilmesi için açık kaynak olarak geliştirmiştir.\
+Google marka isminin kısaltmasından ismini alan Go programlama dili, Google içerisinde barınan sistemlerin daha güvenli ve verimli çalışabilmesi için **2007** yılında geliştirilmeye başlanmış olup **2009** yılında ilk versiyonu yayınlanmıştır.\
 \
 Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik ve artıları Go programlama dilinde ele alarak geliştirme sağlamıştır.
 
