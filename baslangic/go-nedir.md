@@ -15,6 +15,7 @@ Google mühendislerinden oluşan aşağıdaki kişiler diğer dillerdeki eksik v
 **Dilin Genel Özellikleri**
 
 * Hızlı derlenme süresine sahiptir.
+* Uzak paket yöneticisine yerleşik olarak sahiptir.
 
 ****
 
