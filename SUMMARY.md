@@ -6,6 +6,6 @@
 ## Başlangıç
 
 * [Go Nedir?](baslangic/go-nedir.md)
-* [Derleyici Kurulumu](baslangic/derleyici-kurulumu.md)
+* [Merhaba Dünya](baslangic/merhaba-duenya.md)
 * [Geliştirme Ortamının Ayarlanması](baslangic/gelistirme-ortaminin-ayarlanmasi.md)
-* [Hızlı Başlangıç](baslangic/hizli-baslangic.md)
+* [Merhaba Dünya](baslangic/merhaba-duenya-1.md)
