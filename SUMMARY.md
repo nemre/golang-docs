@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Başlarken](README.md)
+* [Go Programlama Dili](README.md)
 * [Katkıda Bulunanlar](katkida-bulunanlar.md)
 
 ## Başlangıç
