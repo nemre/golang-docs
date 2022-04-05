@@ -9,5 +9,3 @@ Sıralama kişi isimleri üzerinden yapılmıştır.
 | Kişi | İletişim |
 | ---- | -------- |
 |      |          |
-|      |          |
-|      |          |
