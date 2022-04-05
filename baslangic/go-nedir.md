@@ -4,7 +4,7 @@
 
 Google marka isminin kısaltmasından ismini alan Go programlama dili, Google içerisinde barınan sistemlerin daha güvenli ve verimli çalışabilmesi için **2007** yılında geliştirilmeye başlanmış olup **2009** yılında ilk versiyonu yayınlanmıştır.
 
-Go geliştirilirken izlenen odak noktası, diğer programlama dillerinin karakteristik özelliklerini ortadan kaldırmadan kod yazmadaki zorluklarını çözmek ve mottoyu basitlik olarak tutmaktır.
+Go geliştirilirken izlenen odak noktası, diğer programlama dillerinin karakteristik özelliklerini ortadan kaldırmadan kod yazmadaki zorluklarını çözmek ve mottoyu **basitlik** olarak tutmaktır.
 
 Go, çöp toplama, bellek güvenliği, otomatik değişken bildirimi, yapısal yazma ve CSP tarzı eşzamanlılık gibi ek avantajlarla birlikte klasik **C/C++** sözdizimine dayanır. Bu aynı zamanda çoklu iş parçacığını özünde tutan en son programlama dilidir.
 
