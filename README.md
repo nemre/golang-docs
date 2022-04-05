@@ -17,5 +17,5 @@ Go programlama dilinin etkili öğreniminin sağlanılabilmesi için dokümantas
 {% hint style="success" %}
 Bu dökümantasyon eksik ya da yanlış olduğunu düşündüğünüz konularda iyileştirilmeye açık halde bulunmaktadır.
 
-Düzenlenmesi gereken içerik hakkında geri bildirimlerinizi [<mark style="color:green;">LinkedIn</mark>](https://www.linkedin.com/in/onalemre/) <mark style="color:green;"></mark> üzerinden iletebilirsiniz.
+Düzenlenmesi gereken içerik hakkında geri bildirimlerinizi [<mark style="color:green;">LinkedIn</mark>](https://www.linkedin.com/in/onalemre/) <mark style="color:green;"></mark> ya da [<mark style="color:green;">GitHub</mark>](https://github.com/emmreonal/golang-docs/) üzerinden iletebilirsiniz.
 {% endhint %}
