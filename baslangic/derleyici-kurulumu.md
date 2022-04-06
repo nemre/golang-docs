@@ -14,12 +14,12 @@ Go uygulamaları geliştirebilmek ve derleyebilmek için bilgisayara Go derleyic
 
 ### Windows'a Go Derleyicisini Yükleme
 
-Go derleyicisini Windows'a yüklemek için lütfen aşağıdaki adımları izleyebilirsiniz:
+Go derleyicisini Windows'a yüklemek için aşağıdaki adımları izleyebilirsiniz:
 
 1. Tarayıcınızdan [<mark style="color:green;">Go İndirmeleri</mark>](https://go.dev/dl/) adresine gidin ve Microsoft Windows .msi yükleyicisini indirin.
 2. Go derleyicisini sisteminize kurmak için yükleyiciyi başlatın ve kurulum sihirbazındaki adımları izleyin.
 
-### &#x20;Linux/Mac OS X'e Go Derleyicisini Yükleme
+### Linux/Mac OS X'e Go Derleyicisini Yükleme
 
 **Mac OS X için Kurulum:**
 
