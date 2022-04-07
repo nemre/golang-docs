@@ -21,6 +21,22 @@ Go derleyicisini Windows'a yüklemek için aşağıdaki adımları izleyebilirsi
 
 ### Linux/Mac OS X'e Go Derleyicisini Yükleme
 
+**APT Paket Yöneticisi ile Kurulum:**
+
+APT paket yöneticisi ile aşağıdaki adımlarla kurulum yapılabilir:
+
+```
+sudo apt install golang
+```
+
+**Pacman Paket Yöneticisi ile Kurulum:**\
+****Pacman paket yöneticisi ile aşağıdaki adımlarla kurulum yapılabilir:
+
+```
+sudo pacman -S go
+```
+
+****\
 **Mac OS X için Kurulum:**
 
 Tarayıcınızdan [<mark style="color:green;">Go İndirmeleri</mark>](https://go.dev/dl/) adresine gidin ve Mac için en son yükleyiciyi indirin.
