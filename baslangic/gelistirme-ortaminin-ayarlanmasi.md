@@ -17,12 +17,13 @@ Go için özel olarak üretilmiş JetBrains GoLand kullanımını ayrıca tercih
 * Tarayıcınızdan [Visual Studio Code Download](https://code.visualstudio.com/download) adresinde giderek IDE kurulumunu işletim sistemi platformunuza göre gerçekleştiriniz.
 
 {% hint style="info" %}
-Gerekli eklentilerin yüklenebilmesi için bilgisayarınızda **Git** kurulu olması gerekmektedir. IDE kurulumu sonrasında [Git Downloads](https://git-scm.com/downloads) adresinden kurulum dosyasını indirebilirsiniz.
+Gerekli eklentilerin yüklenebilmesi için bilgisayarınızda **Git** kurulu olması gerekmektedir.\
+[Git Downloads](https://git-scm.com/downloads) adresinden kurulum dosyasını indirebilirsiniz.
 {% endhint %}
 
-* Visual Studio Code ekranında bulunan eklentiler kısmından [Go eklentisini](https://marketplace.visualstudio.com/items?itemName=golang.Go) kurunuz.&#x20;
-* Editörünüzde .go uzantılı dosya oluşturup içerisinde bir değişiklik yapıp kaydedildiğinde gerekli eklentilerin kurulması için bir uyarıyla karşılaşabilirsiniz. Bu uyarıda bulunan **Install All** butonuna tıklayarak eklenti kurulumlarını gerçekleştirebilirsiniz.
+* Visual Studio Code ekranında bulunan eklentiler kısmından [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) eklentisini kurunuz.&#x20;
+* Editörünüzde **.go** uzantılı dosya oluşturulup, içerisinde bir değişiklik yapıp kaydedildiğinde gerekli eklentilerin kurulması için bir uyarıyla karşılaşabilirsiniz. Bu uyarıda bulunan **Install All** butonuna tıklayarak eklenti kurulumlarını gerçekleştirebilirsiniz.
 
 {% hint style="info" %}
-Canlı hata ayıklama özelliğini aktifleştirebilmek için editör ayarlarınızda \`Go Live Errors\` araması yaparak \`enabled\` değerini aktif duruma getirebilirsiniz.
+Canlı hata ayıklama özelliğini aktifleştirebilmek için editör ayarlarınızda **Go Live Errors** araması yaparak **enabled** değerini **true** olarak değiştirebilirsiniz.
 {% endhint %}
