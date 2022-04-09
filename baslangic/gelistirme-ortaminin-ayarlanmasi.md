@@ -32,7 +32,7 @@ Canlı hata ayıklama özelliğini aktifleştirebilmek için editör ayarların�
 
 Kod yazarken karşınıza çıkabilecek hataları anında görebilmek için Visual Studio Code için üretilmiş **Error Lens** eklentisi bulunmaktadır.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 Kurulum yapabilmek için eklentiler kısmından Error Lens araması yapabilirsiniz.\
 Bu eklenti sayesinde her yazdığınız satırda anlık hata bildirimleriyle geliştirme sürecinizi hızlandırabilirsiniz.

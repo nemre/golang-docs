@@ -1,6 +1,6 @@
 # Derleyici Kurulumu
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 Go derlenmiş bir dil olduğundan dolayı kaynak kodu dosyalarınızı, kaynak kodu okuyan ve programı çalıştırmak için kullanılan ikili veya yürütülebilir bir dosya oluşturan bir derleyici aracılığıyla çalıştırmamız gerektiği anlamına gelir. Diğer popüler derlenmiş dillere örnek olarak C, C++ ve Swift verilebilir. Bu dillerde yazılan programlar makine koduna dönüştürülür ve son derece hızlı çalışabilir.
 

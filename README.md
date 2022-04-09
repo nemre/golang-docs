@@ -1,6 +1,6 @@
 # Go Programlama Dili
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 Bu dokümantasyon Go programlama dilinin, geliştiriciler için öğrenme ve kendini geliştirme ihtiyaçlarını karşılama amacıyla yazılmıştır. Temel **** ya da ileri seviyeden **tüm geliştiriciler için uygundur**.
 
