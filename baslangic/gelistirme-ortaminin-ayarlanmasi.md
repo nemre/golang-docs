@@ -27,3 +27,11 @@ Gerekli eklentilerin yüklenebilmesi için bilgisayarınızda **Git** kurulu olm
 {% hint style="info" %}
 Canlı hata ayıklama özelliğini aktifleştirebilmek için editör ayarlarınızda **Go Live Errors** araması yaparak **enabled** değerini **true** olarak değiştirebilirsiniz.
 {% endhint %}
+
+### Önerilen Hata Ayıklama Eklentisi
+
+Kod yazarken karşınıza çıkabilecek hataları anında görebilmek için Visual Studio Code için üretilmiş **Error Lens** eklentisi bulunmaktadır. Kurulum yapabilmek için eklentiler kısmından Error Lens araması yapabilirsiniz.\
+Bu eklenti sayesinde her yazdığınız satırda anlık hata bildirimleriyle geliştirme sürecinizi hızlandırabilirsiniz.\
+
+
+![](<../.gitbook/assets/image (3).png>)

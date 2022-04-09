@@ -1,6 +1,6 @@
 # Katkıda Bulunanlar
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 Bu dokümantasyonun iyileştirilmesine katkı sağlayan kişiler aşağıda listelenmiştir.
 
