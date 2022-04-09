@@ -8,6 +8,6 @@ Bu dokümantasyonun iyileştirilmesine katkı sağlayan kişiler aşağıda list
 Listede bulunan sıralama kişi isimleri üzerinden yapılmıştır.
 {% endhint %}
 
-| Kişi | İletişim |
-| ---- | -------- |
-|      |          |
+| Kişi       | İletişim                                |
+| ---------- | --------------------------------------- |
+| Kaan Kuşçu | [Twitter](https://twitter.com/ksckaan1) |
