@@ -15,7 +15,7 @@ Varsayılan kurulumda c:/users/{user-name}/go klasöründe **bin**, **pkg**, **s
 
 **src** klasörü geliştirme yapacağınız projelerinizin barındırılacağı klasördür. Burada projelerinizi belirli bir düzende barındırmanız sizin için sağlıklı olacaktır. Aşağıdaki gösterilen yapıda projelerinizi geliştirebilirsiniz. Bu yapı sayesinde **Git** üzerinde bulunan projelerinizdeki karışıklığı önleyebilirsiniz.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### Varsayılan GOPATH Klasörünü Değiştirme
 
