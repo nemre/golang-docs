@@ -1,7 +1,8 @@
 # Klasör Yapısı ve Çalışma Alanı
 
-Go kurulumu ve paket yükleme işlemleri sonrasında oluşan klasör yapısını kullanarak projeleri burada barındırabiliriz. Normalde herhangi bir klasörde Go geliştirmeniz mümkündür fakat Go geliştiricilerin doğru bulduğu klasör mimarisinde geliştirmek size daha sağlıklı bir süreç sağlayabilir.\
+![](../.gitbook/assets/1\_JD1bp9h9UB1nYax-lV2Q9A.png)
 
+Go kurulumu ve paket yükleme işlemleri sonrasında oluşan klasör yapısını kullanarak projeleri burada barındırabiliriz. Normalde herhangi bir klasörde Go geliştirmeniz mümkündür fakat Go geliştiricilerin doğru bulduğu klasör mimarisinde geliştirmek size daha sağlıklı bir süreç sağlayabilir.
 
 Varsayılan kurulumda c:/users/{user-name}/go klasöründe **bin**, **pkg**, **src** adında üç klasör oluşturulur.
 
@@ -11,7 +12,7 @@ Varsayılan kurulumda c:/users/{user-name}/go klasöründe **bin**, **pkg**, **s
 
 **pkg** klasörü üçüncü sınıf paketler indirildiğinde derlenmiş şekilde bu klasör altında barındırır. Aynı zamanda kaynak kodları **src** klasörüne koyar. pkg klasörü derlenme süresini hızlandırmak için halihazırda derlenmiş bir kod içerir. Kendi projelerinizde import ettiğiniz paketlerin geldiği yer burasıdır.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 **src** klasörü geliştirme yapacağınız projelerinizin barındırılacağı klasördür. Burada projelerinizi belirli bir düzende barındırmanız sizin için sağlıklı olacaktır. Aşağıdaki gösterilen yapıda projelerinizi geliştirebilirsiniz. Bu yapı sayesinde **Git** üzerinde bulunan projelerinizdeki karışıklığı önleyebilirsiniz.
 

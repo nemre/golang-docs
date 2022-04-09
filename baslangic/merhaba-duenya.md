@@ -1,5 +1,7 @@
 # Merhaba Dünya
 
+![](../.gitbook/assets/1\_5RTOhQC0zOUqYJVKludbxA.png)
+
 Gerekli kurulumlar yapıldıktan sonra ilk Go uygulamanızı oluşturabilirsiniz. Editörünüzde .go uzantılı dosya oluşturup aşağıdaki kodları kullanarak bir **Merhaba Dünya** çıktısı veren uygulama yaratabilirsiniz.
 
 ```go
