@@ -10,4 +10,4 @@ Listede bulunan sıralama kişi isimleri üzerinden yapılmıştır.
 
 | Kişi       | İletişim                                |
 | ---------- | --------------------------------------- |
-| Kaan Kuşçu | [Twitter](https://twitter.com/ksckaan1) |
+| Kaan Kuşcu | [Twitter](https://twitter.com/ksckaan1) |
