@@ -23,7 +23,7 @@ Varsayılan kurulumda c:/users/{user-name}/go klasöründe **bin**, **pkg**, **s
 
 **Go modules** sayesinde Go 1.11'den beri artık GOPATH kullanmak zorunda değilsiniz. Aşağıdaki adımı herhangi bir klasörde kullanarak modülünüzü tanımlayabilirsiniz.
 
-```
+```bash
 go mod init github.com/{your-user}/{your-repo}
 ```
 
@@ -43,7 +43,7 @@ GOPATH ayarlanmadıysa, Unix sistemlerinde $HOME/go ve Windows'ta %USERPROFILE%\
 
 Özel çalışma alanı ayarlamak için aşağıdaki komutları kullanabilirsiniz.
 
-```go
+```bash
 export GOROOT=/usr/lib/go
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin

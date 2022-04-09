@@ -25,14 +25,14 @@ Go derleyicisini Windows'a yüklemek için aşağıdaki adımları izleyebilirsi
 
 APT paket yöneticisi ile aşağıdaki adımlarla kurulum yapılabilir:
 
-```
+```bash
 sudo apt install golang
 ```
 
 **Pacman Paket Yöneticisi ile Kurulum:**\
 ****Pacman paket yöneticisi ile aşağıdaki adımlarla kurulum yapılabilir:
 
-```
+```bash
 sudo pacman -S go
 ```
 
@@ -48,7 +48,7 @@ Tarball'ı tercih ederseniz, Linux kullanıcıları ile aynı adımları takip e
 
 Homebrew kullanıcıları için aşağıdaki adımlarla kurulum yapılabilir:
 
-```
+```bash
 brew update
 brew install go
 ```
@@ -57,7 +57,7 @@ brew install go
 
 Arşivi indirin**,** /usr/local dizinine çıkarın ve /usr/local/go dizininde bir Go ağacı oluşturun.
 
-```
+```bash
 tar -C /usr/local -xzf go1.18.linux-amd64.tar.gz
 ```
 
@@ -68,15 +68,13 @@ Go kurulumunu onaylayabilmek için aşağıdaki adımları izleyebilirsiniz:
 1. Terminalinizi açın.
 2. Terminalinize aşağıdaki komutu yazın ve Enter'a basın.
 
-```
+```bash
 go version
 ```
 
 Go derleyicisi doğru şekilde kurulduysa, aşağıdaki çıktıya benzer bir mesaj görebilirsiniz.
 
-```
+```bash
 go version go1.x.x windows/amd64
 ```
-
-### &#x20;
 
