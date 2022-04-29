@@ -4,7 +4,7 @@
 
 Gerekli kurulumlar yapıldıktan sonra ilk Go uygulamanızı oluşturabilirsiniz.\
 Yazılım dünyasında klasikleşen **“Merhaba Dünya”** uygulamasını oluşturmak ile başlayabiliriz.\
-Editörünüzde .go uzantılı dosya oluşturup aşağıdaki kodları kullanarak bir **Merhaba Dünya** çıktısı veren uygulama yaratabilirsiniz. Daha sonrasında ne yaptığımızı inceleyeceğiz.
+Editörünüzde .go uzantılı dosya oluşturup aşağıdaki kodları kullanarak bir **Merhaba Dünya** çıktısı veren uygulama yaratabilirsiniz.
 
 ```go
 package main
@@ -16,12 +16,8 @@ func main() {
 }
 ```
 
-Uygulamamızı çalıştırdıktan sonra terminalimizde bu çıktıyla karşılaşacağız.
+**`package main` ** ile dosyamızın paket ismini belirtiyoruz. **** Bu sayede aynı paket ismine değerine sahip olan dosyalar birbirleriyle iletişim kurabilir.
 
-![](<../.gitbook/assets/image (9).png>)
+**`import "fmt"`** ile terminalimize veri basabilmek biçimlendirme kütüphanemizi içeri aktardık.
 
-`package main` **** ile dosyamızın paket ismini belirtiyoruz. **** Bu sayede aynı package değerine wsahip olan dosyalar birbirleriyle iletişim kurabilir.
-
-`import "fmt"`
-
-****
+**`func main()`** ile uygulamamızın ilk çalıştıracağı ana fonksiyonu tanımlıyoruz. Süslü parantez içerisine yazılan kod parçaları uygulamamızda bir takım işlevleri yerine getirecektir.
